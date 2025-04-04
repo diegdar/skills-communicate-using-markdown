@@ -6,3 +6,5 @@
 ###### 6ta cabecera
 
 Estas son cabeceras
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
